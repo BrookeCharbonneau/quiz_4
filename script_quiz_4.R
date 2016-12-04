@@ -11,11 +11,11 @@ pwr.r.test(r=.50, power=.80)
 
 # Find sample size given single published study
 psych::r.con(r=-.30, n=100)
-pwr.r.test(r=-.07, power=.80)
+pwr.r.test(r=-.11, power=.80)
 
 
 # Find sample size given weak positive relationship
-pwr.r.test(r=.16, power=.80)
+pwr.r.test(r=.07, power=.80)
 
 
 
